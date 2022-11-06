@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestPageObj(failed)">
+    <classes>
+      <class name="com.itview.testcases.CarHomeLoan_Test">
+        <methods>
+          <include name="test_2lakh"/>
+          <include name="closeBrowserCode"/>
+          <include name="openBrowserCode"/>
+        </methods>
+      </class> <!-- com.itview.testcases.CarHomeLoan_Test -->
+    </classes>
+  </test> <!-- TestPageObj(failed) -->
+</suite> <!-- Failed suite [Suite] -->

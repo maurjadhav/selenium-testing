@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-05T21:47:55 IST" name="Default suite" finished-at="2022-11-05T21:48:08 IST" duration-ms="13606">
+    <groups>
+    </groups>
+    <test started-at="2022-11-05T21:47:55 IST" name="Default test" finished-at="2022-11-05T21:48:08 IST" duration-ms="13606">
+      <class name="com.selenium.Web_Object.Code_For_Alert_2">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.selenium.Web_Object.Code_For_Alert_2@54bff557]" started-at="2022-11-05T21:47:55 IST" name="beforeTest" finished-at="2022-11-05T21:47:56 IST" duration-ms="1795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Code_For_Alert_Test()[pri:0, instance:com.selenium.Web_Object.Code_For_Alert_2@54bff557]" started-at="2022-11-05T21:47:56 IST" name="Code_For_Alert_Test" finished-at="2022-11-05T21:48:08 IST" duration-ms="11650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Code_For_Alert_Test -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.selenium.Web_Object.Code_For_Alert_2@54bff557]" started-at="2022-11-05T21:48:08 IST" name="afterTest" finished-at="2022-11-05T21:48:08 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.selenium.Web_Object.Code_For_Alert_2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
